@@ -1,0 +1,5 @@
+/target
+/.agent-session
+/.git
+/.jj
+/.claude/settings.local.json
